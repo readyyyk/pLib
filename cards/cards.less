@@ -1,3 +1,5 @@
+@container-w: 1000px;
+
 body{
     margin: 0;
     padding: 0;
@@ -31,7 +33,7 @@ hr {
         justify-content: space-between;
         margin: 0 auto;
         width: 100%;
-        max-width: 940px;
+        max-width: @container-w;
     }
 
     display: flex;
@@ -42,7 +44,6 @@ hr {
     margin-bottom: 1em;
     padding: 0 0 1em 0;
     font-family: sans-serif;
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 3em 4em -1em;
     border-radius: 5px;
 
     &__img {
@@ -88,7 +89,7 @@ hr {
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: calc(@container-w+10px)) {
     .cards {
         flex-direction: column;
         flex-wrap: nowrap;

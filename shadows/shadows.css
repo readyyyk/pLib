@@ -1,0 +1,17 @@
+.plib-shadow-big{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px .5em 1.5em,
+        rgba(17, 17, 26, 0.1) 0px 1em 4em,
+        rgba(17, 17, 26, 0.1) 0px 1.5em 5em;
+}
+
+.plib-shadow-bigger{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 1.5em 4.5em .4em;
+}
+
+.plib-shadow-average{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3em 4em -1em;
+}
+
+.plib-shadow-bottom{
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 1.7em 1.3em -1.3em;
+}
