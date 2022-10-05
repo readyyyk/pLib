@@ -31,4 +31,7 @@
      - [ ] input dropdown
      - [ ] content dropdown
      - [ ] pop-ups
+- ### Icons
+     - [ ] social icons
+     - [ ] frequently usining icons
 - ### Preview page
