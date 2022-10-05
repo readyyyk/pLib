@@ -1,14 +1,14 @@
 # pLib
 ## Content
 - ### Basic css files
-     - [ ] noramalize css
-     - [x] reset css
-     - [ ] animation css
+     - [x] noramalize css
+     - [x] reset css <sub> *x 2* </sub>
+     - [x] animation css
 - ### Shadows and Borders 
      - [x] box shadows
-     - [ ] text shadows
+     - [ ] `t` text shadows
      - [ ] border-radius 
-     - [ ] borders
+     - [ ] `t` borders
 - ### Navbars
      - [ ] nav-top
      - [ ] nav-left
@@ -26,7 +26,7 @@
 - ### A bit more navigation
      - [ ] "return to top" button
      - [ ] "next section" button
-     - [ ] beautifull scrollbars
+     - [ ] __*`in progress`*__ __beautifull scrollbars__
 - ### Dropdowns
      - [ ] input dropdown
      - [ ] content dropdown
