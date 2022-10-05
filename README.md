@@ -27,4 +27,8 @@
      - [ ] "return to top" button
      - [ ] "next section" button
      - [ ] beautifull scrollbars
-
+- ### Dropdowns
+     - [ ] input dropdown
+     - [ ] content dropdown
+     - [ ] pop-ups
+- ### Preview page
